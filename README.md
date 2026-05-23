@@ -28,6 +28,6 @@ Actualmente estoy reforzando mis habilidades mediante el curso Full Stack Path, 
 
 ## Contacto
 
-- LinkedIn: linkedin.com/in/jesus-holguin-115480380
+- LinkedIn: linkedin.com/in/jesús-alejandro-holguín-martínez
 - Correo: L21330388@hermosillo.tecnm.mx
 
